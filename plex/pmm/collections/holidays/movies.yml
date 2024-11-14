@@ -12,7 +12,7 @@ templates:
     limit: <<key>>
     collection_order: custom
     schedule:
-      - range(12/01-12/26)
+      - range(11/01-12/26)
     visible_home:
       - yearly(12/<<key>>)
     visible_shared:
@@ -402,10 +402,10 @@ collections:
 
   "🎅 Christmas":
     schedule:
-      - range(12/01-12/29)
-    visible_home: range(12/01-12/28)
-    visible_shared: range(12/01-12/28)
-    visible_library: range(12/01-12/28)
+      - range(11/01-12/29)
+    visible_home: range(11/01-12/28)
+    visible_shared: range(11/01-12/28)
+    visible_library: range(11/01-12/28)
     template: { name: Holiday,
                 level: "++",
                 poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/christmas.jpg }
@@ -421,10 +421,10 @@ collections:
 
   "🎁 Hallmark Christmas":
     schedule:
-      - range(12/01-12/29)
-    visible_home: range(12/01-12/28)
-    visible_shared: range(12/01-12/28)
-    visible_library: range(12/01-12/28)
+      - range(11/01-12/29)
+    visible_home: range(11/01-12/28)
+    visible_shared: range(11/01-12/28)
+    visible_library: range(11/01-12/28)
     template: { name: Holiday,
                 level: "+" }
     summary: "Christmas movies with extra-sap!"
