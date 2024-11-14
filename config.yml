@@ -80,7 +80,7 @@ playlist_files:
   - repo: playlists/general/movies_playlists_general
   - repo: playlists/general/shows_playlists_general
 settings: # Can be individually specified per library as well
-  custom_repo: https://github.com/ironfox2151/pmmconfigs/tree/main/plex/pmm
+  custom_repo: https://github.com/ironfox2151/pmmconfigs
   cache: true
   cache_expiration: 60
   asset_directory: config/assets
