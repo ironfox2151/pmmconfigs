@@ -174,3 +174,5 @@ sonarr:
   tag: kometa
   search: false
   cutoff_search: false
+github:
+  token: <REDACTED>
