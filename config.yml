@@ -22,7 +22,14 @@ libraries: # Library mappings must have a colon (:) placed after them
       - repo: collections/separators/movies
       - default: studio
       - default: franchise
+      - default: year
+        template_variables:
+          starting: current_year-10
+          ending: current_year
       - default: universe
+      - default: decade
+        template_variables:
+          
 
   #  4K Movies:
   #    library_name: Movies (4K)
