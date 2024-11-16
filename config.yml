@@ -148,17 +148,14 @@ trakt:
     created_at: <REDACTED>
   pin:
 radarr:
-  url: https://radarr.dc.oscher.fun 
-  token: ################################
+  url: <REDACTED>
+  token: <REDACTED>
   add_missing: true
   add_existing: false
   upgrade_existing: false
   monitor_existing: false
-  root_folder_path: S:/Movies
-  monitor: false
-  availability: announced
-  quality_profile: HD-1080p
+  monitor: true
+  availability: cinemas
+  quality_profile: Any
   tag: kometa
-  search: false
-  radarr_path: /media
-  plex_path: /share/CACHEDEV1_DATA/Multimedia
+  search: true
