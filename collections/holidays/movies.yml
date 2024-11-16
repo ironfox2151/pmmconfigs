@@ -35,9 +35,12 @@ collections:
     visible_home: range(12/26-01/04)
     visible_shared: range(12/26-01/04)
     visible_library: range(12/26-01/04)
-    template: { name: Holiday,
-                level: "+++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/years.jpg }
+    template:
+      {
+        name: Holiday,
+        level: "+++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/years.jpg,
+      }
     summary: "Ring in the New Year with these movies!"
     collection_order: random
     minimum_items: 3
@@ -50,9 +53,12 @@ collections:
     visible_home: range(02/01-02/20)
     visible_shared: range(02/01-02/20)
     visible_library: range(02/01-02/20)
-    template: { name: Holiday,
-                level: "+++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/valentine.jpg }
+    template:
+      {
+        name: Holiday,
+        level: "+++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/valentine.jpg,
+      }
     summary: "Love me tender, love me sweet, never let me go."
     collection_order: random
     minimum_items: 3
@@ -67,9 +73,12 @@ collections:
     visible_home: range(02/01-02/29)
     visible_shared: range(02/01-02/29)
     visible_library: range(02/01-02/29)
-    template: { name: Holiday,
-                level: "++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/black_history2.jpg }
+    template:
+      {
+        name: Holiday,
+        level: "++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/black_history2.jpg,
+      }
     summary: "Celebrate Black History Month with these movies!"
     collection_order: random
     minimum_items: 3
@@ -85,9 +94,12 @@ collections:
     visible_home: range(03/01-03/18)
     visible_shared: range(03/01-03/18)
     visible_library: range(03/01-03/18)
-    template: { name: Holiday,
-                level: "+++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/patrick.jpg }
+    template:
+      {
+        name: Holiday,
+        level: "+++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/patrick.jpg,
+      }
     summary: "Kiss Me, I'm Irish."
     collection_order: random
     minimum_items: 3
@@ -100,9 +112,12 @@ collections:
     visible_home: range(04/15-04/22)
     visible_shared: range(04/15-04/22)
     visible_library: range(04/15-04/22)
-    template: { name: Holiday,
-                level: "+",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/420.jpg }
+    template:
+      {
+        name: Holiday,
+        level: "+",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/420.jpg,
+      }
     summary: "Blaze it!"
     collection_order: random
     minimum_items: 3
@@ -115,9 +130,12 @@ collections:
     visible_home: range(03/20-04/30)
     visible_shared: range(03/20-04/30)
     visible_library: range(03/20-04/30)
-    template: { name: Holiday,
-                level: "++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/easter.jpg }
+    template:
+      {
+        name: Holiday,
+        level: "++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/easter.jpg,
+      }
     summary: "Hoppy Easter!"
     collection_order: random
     minimum_items: 3
@@ -131,9 +149,12 @@ collections:
     visible_home: range(05/01-05/31)
     visible_shared: range(05/01-05/31)
     visible_library: range(05/01-05/31)
-    template: { name: Holiday,
-                level: "++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/aapi.jpg }
+    template:
+      {
+        name: Holiday,
+        level: "++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/aapi.jpg,
+      }
     summary: "Celebrate Asian American and Pacific Islander Heritage Month with these movies!"
     collection_order: random
     minimum_items: 3
@@ -158,10 +179,13 @@ collections:
     visible_home: range(05/05-05/10)
     visible_shared: range(05/05-05/10)
     visible_library: range(05/05-05/10)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "+++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/mother.jpg }
+    radarr_add_missing: true
+    template:
+      {
+        name: Holiday,
+        level: "+++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/mother.jpg,
+      }
     summary: "Thanks Mom!"
     collection_order: random
     minimum_items: 3
@@ -174,10 +198,13 @@ collections:
     visible_home: range(05/15-06/14)
     visible_shared: range(05/15-06/14)
     visible_library: range(05/15-06/14)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/genre/School.jpg }
+    radarr_add_missing: true
+    template:
+      {
+        name: Holiday,
+        level: "++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/genre/School.jpg,
+      }
     summary: "Congratulations, graduates!"
     name_mapping: "Graduation"
     collection_order: random
@@ -192,10 +219,13 @@ collections:
     visible_home: range(5/18-6/07)
     visible_shared: range(5/18-6/07)
     visible_library: range(5/18-6/07)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "+++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/memorial.jpg }
+    radarr_add_missing: true
+    template:
+      {
+        name: Holiday,
+        level: "+++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/memorial.jpg,
+      }
     summary: "Remembering those who gave their lives for our freedom."
     collection_order: random
     minimum_items: 3
@@ -208,10 +238,13 @@ collections:
     visible_home: range(06/01-06/30)
     visible_shared: range(06/01-06/30)
     visible_library: range(06/01-06/30)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/lgbtq.jpg }
+    radarr_add_missing: true
+    template:
+      {
+        name: Holiday,
+        level: "++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/lgbtq.jpg,
+      }
     summary: "Celebrate Pride Month with these movies!"
     collection_order: random
     minimum_items: 3
@@ -229,10 +262,13 @@ collections:
     visible_home: range(06/15-06/20)
     visible_shared: range(06/15-06/20)
     visible_library: range(06/15-06/20)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "+++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/father.jpg }
+    radarr_add_missing: true
+    template:
+      {
+        name: Holiday,
+        level: "+++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/father.jpg,
+      }
     summary: "Thanks Dad!"
     collection_order: random
     minimum_items: 3
@@ -245,10 +281,13 @@ collections:
     visible_home: range(06/23-07/10)
     visible_shared: range(06/23-07/10)
     visible_library: range(06/23-07/10)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "+++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/independence.jpg }
+    radarr_add_missing: true
+    template:
+      {
+        name: Holiday,
+        level: "+++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/independence.jpg,
+      }
     summary: "Celebrate the 4th of July with these movies!"
     collection_order: random
     minimum_items: 3
@@ -262,10 +301,13 @@ collections:
     visible_home: range(09/01-09/10)
     visible_shared: range(09/01-09/10)
     visible_library: range(09/01-09/10)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "+++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/labor.jpg }
+    radarr_add_missing: true
+    template:
+      {
+        name: Holiday,
+        level: "+++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/labor.jpg,
+      }
     summary: "Labor Day is a day off, but these movies are hard work."
     collection_order: random
     minimum_items: 3
@@ -278,9 +320,12 @@ collections:
     visible_home: range(09/15-10/15)
     visible_shared: range(09/15-10/15)
     visible_library: range(09/15-10/15)
-    template: { name: Holiday,
-                level: "++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/latinx.jpg }
+    template:
+      {
+        name: Holiday,
+        level: "++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/latinx.jpg,
+      }
     summary: "Celebrate Hispanic Heritage Month with these movies!"
     collection_order: random
     minimum_items: 3
@@ -299,10 +344,13 @@ collections:
     visible_home: range(10/01-10/31)
     visible_shared: range(10/01-10/31)
     visible_library: range(10/01-10/31)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "++++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/halloween.jpg }
+    radarr_add_missing: true
+    template:
+      {
+        name: Holiday,
+        level: "++++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/halloween.jpg,
+      }
     summary: "Boo!"
     collection_order: random
     minimum_items: 3
@@ -317,18 +365,18 @@ collections:
       # - https://trakt.tv/users/jayinftl/lists/halloween
       # - https://trakt.tv/users/roswellgeek/lists/halloween
     tmdb_collection:
-      - 185103    # Hotel Transylvania
-      - 11716     # Addams Family
-      - 750822    # Addams Family Animated
-      - 313086    # Conjuring
-      - 91361     # Halloween Collection
-      - 8581      # A Nightmare on Elm Street Collection
-      - 1733      # The Mummy Collection
-      - 8091      # Alien Collection
-      - 2980      # Ghostbusters
-      - 751156    # Hocus Pocus
+      - 185103 # Hotel Transylvania
+      - 11716 # Addams Family
+      - 750822 # Addams Family Animated
+      - 313086 # Conjuring
+      - 91361 # Halloween Collection
+      - 8581 # A Nightmare on Elm Street Collection
+      - 1733 # The Mummy Collection
+      - 8091 # Alien Collection
+      - 2980 # Ghostbusters
+      - 751156 # Hocus Pocus
     tmdb_movie:
-      - 23437    # A Nightmare on Elm Street (2010)
+      - 23437 # A Nightmare on Elm Street (2010)
 
   "👻 Horror":
     schedule:
@@ -336,14 +384,13 @@ collections:
     visible_home: range(10/01-10/31)
     visible_shared: range(10/01-10/31)
     visible_library: range(10/01-10/31)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "+" }
+    radarr_add_missing: true
+    template: { name: Holiday, level: "+" }
     summary: "Don't be scared, it's just a movie."
     collection_order: random
     minimum_items: 3
     trakt_list:
-      - https://trakt.tv/users/lish408/lists/31-days-of-horror-2024  # TODO: Change annually
+      - https://trakt.tv/users/lish408/lists/31-days-of-horror-2024 # TODO: Change annually
 
   "🍬 Trick or Treat":
     schedule:
@@ -351,9 +398,8 @@ collections:
     visible_home: range(10/01-10/31)
     visible_shared: range(10/01-10/31)
     visible_library: range(10/01-10/31)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "+++" }
+    radarr_add_missing: true
+    template: { name: Holiday, level: "+++" }
     summary: "Trick or Treat!"
     collection_order: random
     minimum_items: 3
@@ -366,9 +412,8 @@ collections:
     visible_home: range(10/01-10/31)
     visible_shared: range(10/01-10/31)
     visible_library: range(10/01-10/31)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "+" }
+    radarr_add_missing: true
+    template: { name: Holiday, level: "+" }
     summary: "He's right behind you!"
     collection_order: random
     minimum_items: 3
@@ -381,9 +426,8 @@ collections:
     visible_home: range(10/25-11/11)
     visible_shared: range(10/25-11/11)
     visible_library: range(10/25-11/11)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "+++" }
+    radarr_add_missing: true
+    template: { name: Holiday, level: "+++" }
     summary: "I like the noise of democracy."
     collection_order: random
     minimum_items: 3
@@ -396,10 +440,13 @@ collections:
     visible_home: range(11/01-11/30)
     visible_shared: range(11/01-11/30)
     visible_library: range(11/01-11/30)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/thanksgiving.jpg }
+    radarr_add_missing: true
+    template:
+      {
+        name: Holiday,
+        level: "++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/thanksgiving.jpg,
+      }
     summary: "Gobble gobble!"
     collection_order: random
     minimum_items: 3
@@ -419,10 +466,13 @@ collections:
     visible_home: range(11/01-12/28)
     visible_shared: range(11/01-12/28)
     visible_library: range(11/01-12/28)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "++",
-                poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/christmas.jpg }
+    radarr_add_missing: true
+    template:
+      {
+        name: Holiday,
+        level: "++",
+        poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/christmas.jpg,
+      }
     summary: "Cozy up with some Christmas classics."
     collection_order: random
     minimum_items: 3
@@ -439,9 +489,8 @@ collections:
     visible_home: range(11/01-12/28)
     visible_shared: range(11/01-12/28)
     visible_library: range(11/01-12/28)
-    radarr_add_missing: true 
-    template: { name: Holiday,
-                level: "+" }
+    radarr_add_missing: true
+    template: { name: Holiday, level: "+" }
     summary: "Christmas movies with extra-sap!"
     collection_order: random
     minimum_items: 3
