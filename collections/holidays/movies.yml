@@ -158,6 +158,7 @@ collections:
     visible_home: range(05/05-05/10)
     visible_shared: range(05/05-05/10)
     visible_library: range(05/05-05/10)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "+++",
                 poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/mother.jpg }
@@ -173,6 +174,7 @@ collections:
     visible_home: range(05/15-06/14)
     visible_shared: range(05/15-06/14)
     visible_library: range(05/15-06/14)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "++",
                 poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/genre/School.jpg }
@@ -190,6 +192,7 @@ collections:
     visible_home: range(5/18-6/07)
     visible_shared: range(5/18-6/07)
     visible_library: range(5/18-6/07)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "+++",
                 poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/memorial.jpg }
@@ -205,6 +208,7 @@ collections:
     visible_home: range(06/01-06/30)
     visible_shared: range(06/01-06/30)
     visible_library: range(06/01-06/30)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "++",
                 poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/lgbtq.jpg }
@@ -225,6 +229,7 @@ collections:
     visible_home: range(06/15-06/20)
     visible_shared: range(06/15-06/20)
     visible_library: range(06/15-06/20)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "+++",
                 poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/father.jpg }
@@ -240,6 +245,7 @@ collections:
     visible_home: range(06/23-07/10)
     visible_shared: range(06/23-07/10)
     visible_library: range(06/23-07/10)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "+++",
                 poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/independence.jpg }
@@ -256,6 +262,7 @@ collections:
     visible_home: range(09/01-09/10)
     visible_shared: range(09/01-09/10)
     visible_library: range(09/01-09/10)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "+++",
                 poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/labor.jpg }
@@ -292,6 +299,7 @@ collections:
     visible_home: range(10/01-10/31)
     visible_shared: range(10/01-10/31)
     visible_library: range(10/01-10/31)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "++++",
                 poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/halloween.jpg }
@@ -328,6 +336,7 @@ collections:
     visible_home: range(10/01-10/31)
     visible_shared: range(10/01-10/31)
     visible_library: range(10/01-10/31)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "+" }
     summary: "Don't be scared, it's just a movie."
@@ -342,6 +351,7 @@ collections:
     visible_home: range(10/01-10/31)
     visible_shared: range(10/01-10/31)
     visible_library: range(10/01-10/31)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "+++" }
     summary: "Trick or Treat!"
@@ -356,6 +366,7 @@ collections:
     visible_home: range(10/01-10/31)
     visible_shared: range(10/01-10/31)
     visible_library: range(10/01-10/31)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "+" }
     summary: "He's right behind you!"
@@ -370,6 +381,7 @@ collections:
     visible_home: range(10/25-11/11)
     visible_shared: range(10/25-11/11)
     visible_library: range(10/25-11/11)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "+++" }
     summary: "I like the noise of democracy."
@@ -384,6 +396,7 @@ collections:
     visible_home: range(11/01-11/30)
     visible_shared: range(11/01-11/30)
     visible_library: range(11/01-11/30)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "++",
                 poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/thanksgiving.jpg }
@@ -406,6 +419,7 @@ collections:
     visible_home: range(11/01-12/28)
     visible_shared: range(11/01-12/28)
     visible_library: range(11/01-12/28)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "++",
                 poster_url: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/seasonal/christmas.jpg }
@@ -425,6 +439,7 @@ collections:
     visible_home: range(11/01-12/28)
     visible_shared: range(11/01-12/28)
     visible_library: range(11/01-12/28)
+    radarr_add_missing: true 
     template: { name: Holiday,
                 level: "+" }
     summary: "Christmas movies with extra-sap!"
