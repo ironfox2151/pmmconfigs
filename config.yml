@@ -21,6 +21,8 @@ libraries: # Library mappings must have a colon (:) placed after them
       - repo: collections/years/movies
       - repo: collections/separators/movies
       - default: studio
+      - default: franchise
+      - default: universe
 
   #  4K Movies:
   #    library_name: Movies (4K)
