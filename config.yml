@@ -20,6 +20,8 @@ libraries: # Library mappings must have a colon (:) placed after them
       - repo: collections/trending/movies
       - repo: collections/years/movies
       - repo: collections/separators/movies
+      - default: studio
+
   #  4K Movies:
   #    library_name: Movies (4K)
   #    collection_files:
