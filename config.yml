@@ -7,18 +7,18 @@ libraries: # Library mappings must have a colon (:) placed after them
       - repo: collections/awards/movies
       - repo: collections/best/movies
       - repo: collections/countries/movies
-      - repo: collections/decades/movies
+      #      - repo: collections/decades/movies
       - repo: collections/genres/movies
       - repo: collections/holidays/movies
       - repo: collections/history/movies
       - repo: collections/lists/movies
       - repo: collections/memoriam/movies
-      - repo: collections/networks/movies
+      #      - repo: collections/networks/movies
       - repo: collections/new/movies
       - repo: collections/random/movies
       - repo: collections/recommendations/movies
       - repo: collections/trending/movies
-      - repo: collections/years/movies
+      #      - repo: collections/years/movies
       - repo: collections/separators/movies
       - default: studio
       - default: franchise
@@ -28,8 +28,6 @@ libraries: # Library mappings must have a colon (:) placed after them
           ending: current_year
       - default: universe
       - default: decade
-        template_variables:
-          
 
   #  4K Movies:
   #    library_name: Movies (4K)
