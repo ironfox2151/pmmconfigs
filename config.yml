@@ -159,3 +159,18 @@ radarr:
   quality_profile: Any
   tag: kometa
   search: true
+sonarr:
+  url: <REDACTED>
+  token: <REDACTED>
+  add_missing: false
+  add_existing: false
+  upgrade_existing: false
+  monitor_existing: false
+  monitor: all
+  quality_profile: Any
+  language_profile: English
+  series_type: standard
+  season_folder: true
+  tag: kometa
+  search: false
+  cutoff_search: false
